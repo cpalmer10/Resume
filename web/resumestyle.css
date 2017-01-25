@@ -1,0 +1,44 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 25, 2017, 11:13:14 AM
+    Author     : Chris
+*/
+html, body {
+    background-color: #F0F0F0;
+    font-family: "Arial", sans-serif;
+    
+}
+
+#contactInfo {
+    padding-left: 1000px;
+}
+
+#name, #jobTitle {
+    padding-left: 500px;
+}
+
+.line {
+    width: 100%;
+    height: 0;
+    border-bottom: 2px solid black;
+}
+
+.header {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+#work {
+    padding-top: 5px;
+    margin-top: 5px;
+}
+
+#tutor, #jcms, #jh {
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
